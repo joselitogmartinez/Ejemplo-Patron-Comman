@@ -1,0 +1,16 @@
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.exe
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.deps.json
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.dll
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\ref\Command.dll
+C:\Users\Usuario 2021\Desktop\Command\bin\Debug\net5.0\Command.pdb
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.csproj.AssemblyReference.cache
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.dll
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\ref\Command.dll
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.pdb
+C:\Users\Usuario 2021\Desktop\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
